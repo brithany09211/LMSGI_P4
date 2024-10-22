@@ -1,0 +1,61 @@
+h1 {
+    text-align: center;
+    color:blue;
+}
+h3 {
+    text-align: center;
+    color:#FFD700;
+}
+.capcelera {
+    font-size: 25px;    
+    padding: 30px;   
+    background-color:#98FB98 ; 
+    font-weight: bold;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    margin: auto;
+    color:;
+}
+.LMSGI {
+    background-color:#FFB6C1; 
+}
+.PED {
+    background-color:#008080; 
+}
+.IPOI {
+    background-color:#B22222; 
+}
+.BD {
+    background-color:#FFF5EE; 
+}
+.TUT {
+    background-color:#6495ED; 
+}
+.DIW {
+    background-color:#FFA07A; 
+}
+.AN {
+    background-color:#DAA520; 
+}
+.SI {
+    background-color:yellow; 
+}
+.HORES {
+    font-size: 20px;    
+    padding: 10px;      
+    width: 180px;
+}
+.DESCANS {
+    font-size: 20px;    
+    padding: 15px;          
+}
+body {
+    
+    font-family: Verdana;
+}
+
+        
